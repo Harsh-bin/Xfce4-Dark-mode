@@ -16,8 +16,7 @@ chmod +x ./darkmode.sh
 # 🖼️ themes used in the script is in release section
 
 # 💬 To install theme
-**Extract and copy themes to ~/.themes folder in your home directory
-            amd copy icons to ~/.icons folder in your home directory**
+**Extract and copy themes to ~/.themes folder of your home directory and copy icons to ~/.icons folder of your home directory**
 
   
   
