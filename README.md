@@ -1,7 +1,7 @@
 # 🎨 Xfce4-Dark-mode
 bash script to toogle between dark and light theme on xfce4-desktop
 
-![Preview](/preview.gif)
+![preview](/preview.gif)
 
 # EDIT THEMES AND ICONS ACCODRING TO YOUR THEME ,ALTERNATE ✨LIGHT AND 🌙DARK
 ![names](/themes.png)
